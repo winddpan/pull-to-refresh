@@ -1,3 +1,0 @@
-bundle exec fastlane release
-bundle exec fastlane beta
-bundle exec fastlane pgy
